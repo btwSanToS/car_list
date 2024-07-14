@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte do processo seletivo para a vaga de Fro
 git clone https://github.com/btwSanToS/car_list.git
 
 ## Instalar as Dependências:
-* cd car_list-master
+cd car_list-master
 * npm install --save-dev @angular-devkit/build-angular
 
 ## Iniciar o Servidor de Desenvolvimento:
