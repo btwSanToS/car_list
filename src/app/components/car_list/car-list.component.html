@@ -1,0 +1,21 @@
+<header>
+  <div class="master">
+    <h1 class="cabecalho-aluguel">|| Aluguel de Veículos ||</h1>
+    <button class="cabecalho" id="sup">Suporte</button>
+  </div>
+</header>
+<main class="main">
+  <div *ngIf="carData">
+    <h2>Modelos de carros</h2>
+    <ul>
+      <li class="li-veiculos" *ngFor="let item of carData.data">
+        <app-card [item]="item" (detalhar)="abrirModal(item)"></app-card>
+      </li>
+    </ul>
+  </div>
+  <app-modal-detalhes
+    *ngIf="mostrarModal"
+    [item]="itemSelecionado"
+    (fecharModal)="fecharModal()"
+  ></app-modal-detalhes>
+</main>

@@ -1,0 +1,54 @@
+{
+    "Grupo A: Compactos": [
+      { "modelo": "Gol", "marca": "Volkswagen" },
+      { "modelo": "Mobi", "marca": "Fiat" },
+      { "modelo": "HB20", "marca": "Hyundai" },
+      { "modelo": "Onix", "marca": "Chevrolet" },
+      { "modelo": "Polo", "marca": "Volkswagen" },
+      { "modelo": "Zoe", "marca": "Renault" },
+      { "modelo": "Argo", "marca": "Fiat" },
+      { "modelo": "A3", "marca": "Audi" }
+    ],
+    "Grupo B: Sedans": [
+      { "modelo": "Cronos", "marca": "Fiat" },
+      { "modelo": "Corolla", "marca": "Toyota" },
+      { "modelo": "Fusion", "marca": "Ford" },
+      { "modelo": "HB20S", "marca": "Hyundai" }
+    ],
+    "Grupo C: SUVs": [
+      { "modelo": "C3 Aircross", "marca": "Citroën" },
+      { "modelo": "Commander", "marca": "Jeep" },
+      { "modelo": "Equinox", "marca": "Chevrolet" },
+      { "modelo": "Renegade", "marca": "Jeep" },
+      { "modelo": "Haval H6", "marca": "Haval" }
+    ],
+    "Grupo D: Picapes": [
+      { "modelo": "Fiorino", "marca": "Fiat" },
+      { "modelo": "S10", "marca": "Chevrolet" },
+      { "modelo": "Strada", "marca": "Fiat" },
+      { "modelo": "Toro", "marca": "Fiat" },
+      { "modelo": "Ranger", "marca": "Ford" },
+      { "modelo": "Saveiro", "marca": "Volkswagen" },
+      { "modelo": "Hilux", "marca": "Toyota" }
+    ],
+    "Grupo E: Minivans": [
+      { "modelo": "Spin", "marca": "Chevrolet" }
+    ]
+  }
+
+  .
+  Resumos Grupos:
+  Grupo A:
+  Resumo: Compactos são ideais para quem busca economia de combustível e facilidade de estacionamento, sendo perfeitos para o uso urbano.
+  
+  Grupo B: 
+  Resumo: Sedans são perfeitos para quem deseja espaço, conforto e um bom desempenho em viagens longas, combinando elegância e funcionalidade.
+  
+  Grupo C:
+  Resumo: SUVs oferecem um excelente espaço interno, posição de direção elevada e são ideais para famílias e aventuras fora da estrada.
+  
+  Grupo D:
+  Resumo: Picapes são robustas e versáteis, ideais para trabalhos pesados e transporte de cargas, combinando força e praticidade.
+  
+  Grupo E:
+  Resumo: Minivans são perfeitas para famílias grandes ou para quem precisa de muito espaço interno, oferecendo conforto e praticidade.

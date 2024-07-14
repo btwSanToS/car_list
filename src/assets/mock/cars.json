@@ -1,0 +1,224 @@
+{
+    "data":[
+      {
+        "id": 1,
+        "placa": "KPD-9274",
+        "chassi": "9BWZZZ377VT004251",
+        "renavam": "48445697213",
+        "modelo": "A3",
+        "marca": "Audi",
+        "ano": 2018,
+        "image": "/images/Carros/audi_a3.png"
+      },
+      {
+        "id": 2,
+        "placa": "MTR-6351",
+        "chassi": "8AWZZZ111DT001122",
+        "renavam": "87264932156",
+        "modelo": "Aircross",
+        "marca": "Citroën",
+        "ano": 2020,
+        "image": "/images/Carros/c3_aircross.png"
+      },
+      {
+        "id": 3,
+        "placa": "JYL-4823",
+        "chassi": "7BWZZZ456HT002233",
+        "renavam": "56937281450",
+        "modelo": "Commander",
+        "marca": "Jeep",
+        "ano": 2019,
+        "image": "/images/Carros/commander.png"
+      },
+      {
+        "id": 4,
+        "placa": "QRS-8564",
+        "chassi": "9BRZZZ231LT004334",
+        "renavam": "23846509172",
+        "modelo": "Cronos",
+        "marca": "Fiat",
+        "ano": 2017,
+        "image": "/images/Carros/cronos.png"
+      },
+      {
+        "id": 5,
+        "placa": "NXT-3579",
+        "chassi": "6DWZZZ789PT005445",
+        "renavam": "75129038467",
+        "modelo": "Mobi",
+        "marca": "Fiat",
+        "ano": 2021,
+        "image": "/images/Carros/fiat_mobi.png"
+      },
+      {
+        "id": 6,
+        "placa": "LPO-1247",
+        "chassi": "8EWZZZ222KT006556",
+        "renavam": "93847612054",
+        "modelo": "Fiorino",
+        "marca": "Fiat",
+        "ano": 2020,
+        "image": "/images/Carros/fiorino.png"
+      },
+      {
+        "id": 7,
+        "placa": "BXM-6354",
+        "chassi": "5AWZZZ333MT007667",
+        "renavam": "10293847561",
+        "modelo": "Equinox",
+        "marca": "Chevrolet",
+        "ano": 2019,
+        "image": "/images/Carros/gmequinox.png"
+      },
+      {
+        "id": 8,
+        "placa": "VFL-9876",
+        "chassi": "7CWZZZ444LT008778",
+        "renavam": "39485726108",
+        "modelo": "S10",
+        "marca": "Chevrolet",
+        "ano": 2018,
+        "image": "/images/Carros/gms10.png"
+      },
+      {
+        "id": 9,
+        "placa": "YTR-5432",
+        "chassi": "3BRZZZ555XT009889",
+        "renavam": "74820136592",
+        "modelo": "Spin",
+        "marca": "Chevrolet",
+        "ano": 2021,
+        "image": "/images/Carros/GmSpin.png"
+      },
+      {
+        "id": 10,
+        "placa": "MWK-7658",
+        "chassi": "1AWZZZ666JT001990",
+        "renavam": "52938471036",
+        "modelo": "Gol",
+        "marca": "Volkswagen",
+        "ano": 2017,
+        "image": "/images/Carros/Gol.png"
+      },
+      {
+        "id": 11,
+        "placa": "ABC-1234",
+        "chassi": "4BWZZZ111JT002334",
+        "renavam": "82639104573",
+        "modelo": "Argo",
+        "marca": "Fiat",
+        "ano": 2018,
+        "image": "/images/Carros/gol_argo.jpg"
+      },
+      {
+        "id": 12,
+        "placa": "DEF-5678",
+        "chassi": "5AWZZZ222KT003445",
+        "renavam": "30475926184",
+        "modelo": "Haval H6",
+        "marca": "Haval",
+        "ano": 2019,
+        "image": "/images/Carros/hava.png"
+      },
+      {
+        "id": 13,
+        "placa": "GHI-9012",
+        "chassi": "6BWZZZ333LT004556",
+        "renavam": "58723904156",
+        "modelo": "HB20",
+        "marca": "Hyundai",
+        "ano": 2020,
+        "image": "/images/Carros/hb20_hyundai.png"
+      },
+      {
+        "id": 14,
+        "placa": "JKL-3456",
+        "chassi": "7CWZZZ444MT005667",
+        "renavam": "76102938457",
+        "modelo": "HB20",
+        "marca": "Hyundai",
+        "ano": 2017,
+        "image": "/images/Carros/hb20s.png"
+      },
+      {
+        "id": 15,
+        "placa": "MNO-7890",
+        "chassi": "8DWZZZ555PT006778",
+        "renavam": "48019357264",
+        "modelo": "Onix",
+        "marca": "Chevrolet",
+        "ano": 2019,
+        "image": "/images/Carros/onix.png"
+      },
+      {
+        "id": 16,
+        "placa": "PQR-1234",
+        "chassi": "9AWZZZ666XT007889",
+        "renavam": "93762048157",
+        "modelo": "Polo",
+        "marca": "Volkswagen",
+        "ano": 2021,
+        "image": "/images/Carros/polo.png"
+      },
+      {
+        "id": 17,
+        "placa": "STU-5678",
+        "chassi": "1BWZZZ777JT008990",
+        "renavam": "28176509347",
+        "modelo": "Zoe",
+        "marca": "Renault",
+        "ano": 2018,
+        "image": "/images/Carros/renaultZoe.png"
+      },
+      {
+        "id": 18,
+        "placa": "VWX-9012",
+        "chassi": "2CWZZZ888KT009001",
+        "renavam": "59407236148",
+        "modelo": "Renegade",
+        "marca": "Jeep",
+        "ano": 2020,
+        "image": "/images/Carros/renegade.png"
+      },
+      {
+        "id": 19,
+        "placa": "YZA-3456",
+        "chassi": "3DWZZZ999LT010112",
+        "renavam": "72059483126",
+        "modelo": "Saveiro",
+        "marca": "Volkswagen",
+        "ano": 2019,
+        "image": "/images/Carros/Saveiro.png"
+      },
+      {
+        "id": 20,
+        "placa": "BCD-7890",
+        "chassi": "4AWZZZ000MT011223",
+        "renavam": "81394065728",
+        "modelo": "Strada",
+        "marca": "Fiat",
+        "ano": 2021,
+        "image": "/images/Carros/strada.png"
+      },
+      {
+        "id": 21,
+        "placa": "EFD-4125",
+        "chassi": "5CWZZZ111JT012334",
+        "renavam": "19238475012",
+        "modelo": "Toro",
+        "marca": "Fiat",
+        "ano": 2018,
+        "image": "/images/Carros/toro.png"
+      },
+      {
+        "id": 22,
+        "placa": "GHJ-3216",
+        "chassi": "6AWZZZ222KT013445",
+        "renavam": "38492017564",
+        "modelo": "Corolla",
+        "marca": "Toyota",
+        "ano": 2020,
+        "image": "/images/Carros/toyota_corolla.png"
+      }
+   ]
+}
