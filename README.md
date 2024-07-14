@@ -31,9 +31,3 @@ cd car_list-master
 * O projeto foi desenvolvido com foco na funcionalidade e na clareza do código.
 * A estilização é básica e pode ser aprimorada de acordo com as necessidades.
 * O projeto está responsivo e se adapta a diferentes tamanhos de tela.
-
-## Próximos Passos para implementação
-* Implementar filtros e ordenação na lista de carros.
-* Adicionar mais informações aos detalhes dos carros (ano, preço, etc.).
-* Integrar com um backend para buscar os dados dos carros dinamicamente.
-* Aprimorar a estilização e a experiência do usuário.
