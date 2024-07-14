@@ -1,27 +1,39 @@
-# CarList
+# Desafio Front-End: Aluguel de Veículos 🚗
+Este projeto foi desenvolvido como parte do processo seletivo para a vaga de Front-End. Ele consiste em uma aplicação Angular que exibe uma lista de carros disponíveis para aluguel, com a opção de visualizar detalhes de cada veículo em um modal.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+### Tecnologias Utilizadas
+<img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> TypeScript
 
-## Development server
+<img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />  Angular 18
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> HTML
 
-## Code scaffolding
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> CSS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Como Executar o Projeto
+### Clonar o Repositório:
+git clone https://github.com/btwSanToS/car_list.git
 
-## Build
+## Instalar as Dependências:
+* cd car_list-master
+* npm install --save-dev @angular-devkit/build-angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Iniciar o Servidor de Desenvolvimento:
+* ng serve
 
-## Running unit tests
+## Acessar a Aplicação:
+* Abra seu navegador e acesse http://localhost:4200/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Funcionalidades
+* Listagem de Carros: Exibe uma lista de carros com informações básicas (marca, modelo, imagem).
+* Modal de Detalhes: Ao clicar no botão "Detalhar", um modal é aberto com informações mais detalhadas do carro selecionado.
+* Observações
+* O projeto foi desenvolvido com foco na funcionalidade e na clareza do código.
+* A estilização é básica e pode ser aprimorada de acordo com as necessidades.
+* O projeto está responsivo e se adapta a diferentes tamanhos de tela.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Próximos Passos para implementação
+* Implementar filtros e ordenação na lista de carros.
+* Adicionar mais informações aos detalhes dos carros (ano, preço, etc.).
+* Integrar com um backend para buscar os dados dos carros dinamicamente.
+* Aprimorar a estilização e a experiência do usuário.
