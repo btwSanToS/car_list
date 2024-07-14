@@ -1,17 +1,3 @@
-h3 {
-  margin-bottom: 8px;
-}
-
-img {
-  height: 200px;
-  width: 400px;
-  object-fit: cover;
-  transition: all 0.25s ease-in-out;
-  &:hover {
-    transform: scale(1.1);
-  }
-}
-
 .btn {
   background-color: #ffffff;
   border: 1px solid #071c45;
@@ -31,27 +17,42 @@ img {
   text-decoration: none;
   touch-action: manipulation;
   transition: box-shadow;
+}
 
-  &:focus-visible {
-    box-shadow: #071c45 0 0 0 2px, rgba(255, 255, 255, 0.8) 0 0 0 4px;
-    transition: box-shadow 0.2s;
-  }
+.btn:active {
+  background-color: #f7f7f7;
+  border-color: #000000;
+  transform: scale(0.96);
+}
 
-  &:active {
-    background-color: #f7f7f7;
-    border-color: #000000;
-    transform: scale(0.96);
-  }
+.btn:disabled {
+  border-color: #dddddd;
+  color: #dddddd;
+  cursor: not-allowed;
+  opacity: 1;
+}
 
-  &:disabled {
-    border-color: #dddddd;
-    color: #dddddd;
-    cursor: not-allowed;
-    opacity: 1;
-  }
+.btn:focus-visible {
+  box-shadow: #071c45 0 0 0 2px, rgba(255, 255, 255, 0.8) 0 0 0 4px;
+  transition: box-shadow 0.2s;
 }
 
 .container {
   display: flex;
   flex-direction: column;
+}
+
+h3 {
+  margin-bottom: 8px;
+}
+
+img {
+  height: 200px;
+  object-fit: cover;
+  transition: all 0.25s ease-in-out;
+  width: 400px;
+}
+
+img:hover {
+  transform: scale(1.1);
 }

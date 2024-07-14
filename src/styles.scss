@@ -1,23 +1,23 @@
-* {
-    font-family: "Barlow", sans-serif;
-    font-weight: 100;
-    font-style: italic;
-    font-weight: bold;
-  }
+body {
+  background-color: #a7bad2;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+
 .no-scroll {
   overflow-y: hidden;
 }
 
-body {
-  background-color: #a7bad2;
-  padding: 0;
-  margin: 0;
+* {
+  font-family: "Barlow", sans-serif;
+  font-style: italic;
+  font-weight: bold;
 }
-
-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 10;
-  }
